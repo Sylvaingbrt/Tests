@@ -2,4 +2,6 @@ Ici du texte pour voir si le commit et push marche.
 Et ici encore un peu de texte pour voir si le pull marche.
 Commit sans add?
 
+
 Modification dans une branche.
+Et ici du texte dans le master mais pas dans la branche.
